@@ -7,7 +7,7 @@
 
 ## 🚀 Professional Profile
 
-### 🇺🇸 English (International / Recruiter-focused)
+### 🇺🇸 English
 
 AI & Machine Learning Engineer with a strong background in **Data Science, Machine Learning, and Intelligent Automation**. I hold a **Bachelor’s degree in Information Systems** and I am currently pursuing a **Postgraduate degree in Artificial Intelligence and Machine Learning** at **PUC Minas (Brazil)**.
 
@@ -17,7 +17,7 @@ I am actively seeking **international opportunities**, **AI/ML engineering roles
 
 ---
 
-### 🇧🇷 Português (Foco em Portfólio e Vagas)
+### 🇧🇷 Português
 
 Engenheiro de **Inteligência Artificial e Machine Learning**, com formação em **Sistemas de Informação** e pós-graduação em andamento em **IA e Machine Learning pela PUC Minas**. Experiência prática em **ciência de dados**, **modelagem preditiva**, **aprendizado supervisionado e não supervisionado**, **Deep Learning**, **NLP** e **automação inteligente**.
 
